@@ -1,16 +1,30 @@
-## Hi there 👋
+# Marcos Cremasco Teixeira  
 
-<!--
-**marcos-cr/marcos-cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Physics @ UNC Chapel Hill**  
+*Quantitative Finance Track · Behring Scholar*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About  
+I build systems at the intersection of **AI, software engineering, and quantitative modeling**.  
+Currently focused on **LLM infrastructure**, **data pipelines**, and **computational finance**.  
+
+---
+
+### What I've been up to recently
+**CAIS (NYC)** — built a full-stack analytics platform (Python, Streamlit, Snowflake)  
+and an AI agent (LiteLLM) for automated querying and real-time financial analysis.  
+
+**UNC Lineberger Comprehensive Cancer Center** — developed TypeScript/Next.js simulations for behavioral data studies.  
+
+---
+
+### Stuff I like working with
+`Python` · `C` · `Java` · `TypeScript` · `SQL` · `C++` · `Rust` ·
+`PyTorch` · `TensorFlow` · `React` · `MongoDB`  
+
+---
+
+[Email](mailto:marcoscr@unc.edu) · [LinkedIn](https://www.linkedin.com/in/mcremasco/)
+
+
