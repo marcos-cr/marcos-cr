@@ -15,7 +15,7 @@ Currently focused on **LLM infrastructure**, **data pipelines**, and **computati
 **CAIS Group (NYC)** — built a full-stack analytics platform (Python, Streamlit, Snowflake)  
 and an AI agent (LiteLLM) for automated querying and real-time financial analysis.  
 
-**UNC Lineberger Comprehensive Cancer Center** — developed TypeScript/Next.js simulations for behavioral data studies.  
+**UNC Lineberger Comprehensive Cancer Center** — developed TypeScript/Next.js social-media-like simulations for behavioral data studies.  
 
 ---
 
