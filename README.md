@@ -12,7 +12,7 @@ Currently focused on **LLM infrastructure**, **data pipelines**, and **computati
 ---
 
 ### What I've been up to recently
-**CAIS (NYC)** — built a full-stack analytics platform (Python, Streamlit, Snowflake)  
+**CAIS Group (NYC)** — built a full-stack analytics platform (Python, Streamlit, Snowflake)  
 and an AI agent (LiteLLM) for automated querying and real-time financial analysis.  
 
 **UNC Lineberger Comprehensive Cancer Center** — developed TypeScript/Next.js simulations for behavioral data studies.  
